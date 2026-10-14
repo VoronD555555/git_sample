@@ -1,2 +1,2 @@
 # git_sample
-**new repository**
+**new repository** for a *first try*
